@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gabriel Teodoro Gomes
+Matricula: 887478
 
 ## Tela de inspeção com navegador
-
+![alt text](<Captura de tela 2025-03-07 164923.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Captura de tela 2025-03-07 174208.png>)
